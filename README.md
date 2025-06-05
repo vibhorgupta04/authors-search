@@ -24,8 +24,3 @@ This is a Vue 3 project that allows users to search for authors using the [Open 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/) (dev server)
 - [Netlify](https://netlify.com/) for deployment
-
----
-
-## 📁 Project Structure
-
