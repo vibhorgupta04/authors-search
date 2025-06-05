@@ -2,7 +2,7 @@
 
 This is a Vue 3 project that allows users to search for authors, filter results by work count, and navigate through results using clean client-side pagination.
 
-🔗 **Live Demo**: [View on Netlify](https://app.netlify.com/projects/author-assignment/deploys/)
+🔗 **Live Demo**: [View on Netlify](https://author-assignment.netlify.app/)
 
 ---
 
