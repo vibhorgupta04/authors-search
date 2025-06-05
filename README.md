@@ -1,5 +1,31 @@
-# Vue 3 + TypeScript + Vite
+# 📚 Vue 3 Author Search App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a Vue 3 project that allows users to search for authors using the [Open Library API](https://openlibrary.org/developers/api), filter results by work count, and navigate through results using clean client-side pagination.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+🔗 **Live Demo**: [View on Netlify](https://app.netlify.com/projects/author-assignment/deploys/)
+
+---
+
+## 🚀 Features
+
+- 🔎 Search authors by name using Open Library API
+- 📊 Filter authors by `work_count` (e.g., >50, >100)
+- 📄 Paginate through results (20 authors per page)
+- ⚙️ Built with Composition API and Axios
+- 🎨 Styled with Tailwind CSS
+- ✅ TypeScript-ready setup
+
+---
+
+## 🛠️ Tech Stack
+
+- [Vue 3](https://vuejs.org/)
+- [Axios](https://axios-http.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) (dev server)
+- [Netlify](https://netlify.com/) for deployment
+
+---
+
+## 📁 Project Structure
+
