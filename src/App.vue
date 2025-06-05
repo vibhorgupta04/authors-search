@@ -45,7 +45,7 @@ const loading = ref(false)
 const error = ref(null)
 const currentPage = ref(1)
 const currentQuery = ref('')
-const pageSize = 100
+const pageSize = 5
 const totalPages = ref(0)
 
 const fetchAuthors = async () => {
