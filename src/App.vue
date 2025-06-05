@@ -1,6 +1,6 @@
 <template>
   <div class="max-w-2xl mx-auto p-4">
-    <h1 class="text-2xl font-bold mb-4">Author Search</h1>
+    <h1 class="text-2xl font-bold mb-4">Search Authors</h1>
 
     <SearchBar @search="newSearch" />
 
